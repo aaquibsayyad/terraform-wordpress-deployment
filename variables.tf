@@ -1,9 +1,9 @@
 variable "region" {
-  default = "us-east-1"
+  default = "ap-south-1"
 }
 
 variable "ami" {
-  default = "ami-0c55b159cbfafe1f0"
+  default = "ami-07d3a50bd29811cd1"
 }
 
 variable "instance_type" {
